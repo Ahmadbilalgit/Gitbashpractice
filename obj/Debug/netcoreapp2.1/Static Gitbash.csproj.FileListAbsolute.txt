@@ -1,0 +1,11 @@
+D:\Automation\C#\Programs\Static Gitbash\bin\Debug\netcoreapp2.1\Static Gitbash.deps.json
+D:\Automation\C#\Programs\Static Gitbash\bin\Debug\netcoreapp2.1\Static Gitbash.runtimeconfig.json
+D:\Automation\C#\Programs\Static Gitbash\bin\Debug\netcoreapp2.1\Static Gitbash.runtimeconfig.dev.json
+D:\Automation\C#\Programs\Static Gitbash\bin\Debug\netcoreapp2.1\Static Gitbash.dll
+D:\Automation\C#\Programs\Static Gitbash\bin\Debug\netcoreapp2.1\Static Gitbash.pdb
+D:\Automation\C#\Programs\Static Gitbash\obj\Debug\netcoreapp2.1\Static Gitbash.csprojAssemblyReference.cache
+D:\Automation\C#\Programs\Static Gitbash\obj\Debug\netcoreapp2.1\Static Gitbash.csproj.CoreCompileInputs.cache
+D:\Automation\C#\Programs\Static Gitbash\obj\Debug\netcoreapp2.1\Static Gitbash.AssemblyInfoInputs.cache
+D:\Automation\C#\Programs\Static Gitbash\obj\Debug\netcoreapp2.1\Static Gitbash.AssemblyInfo.cs
+D:\Automation\C#\Programs\Static Gitbash\obj\Debug\netcoreapp2.1\Static Gitbash.dll
+D:\Automation\C#\Programs\Static Gitbash\obj\Debug\netcoreapp2.1\Static Gitbash.pdb
