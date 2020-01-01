@@ -19,7 +19,7 @@ class Aplpha
     {
         First.Sumup();   //Since the first class is defined as static , it does not require object to user its method.
 
-
+        //Notes A
 
 
 
